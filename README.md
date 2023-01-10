@@ -9,4 +9,9 @@ Good <strong><em>luck</strong></em> :)
 [Link to source](guessTheNumber.js)<br />
 
 Screenshot:<br /><br />
-![screenshot](https://user-images.githubusercontent.com/114406139/211433143-3090125b-6e62-4c4d-8e6b-feed6a76bb5c.PNG)
+![screenshot](https://user-images.githubusercontent.com/114406139/211433143-3090125b-6e62-4c4d-8e6b-feed6a76bb5c.PNG)<br />
+
+## Live Demo
+
+[<img alt="Play Button" src="https://user-images.githubusercontent.com/114406139/211439129-37c7a037-dde4-49d6-bf62-4ffc4f315fa9.PNG" />](https://replit.com/@ntzolov/guessTheNumber#guessTheNumber.js)
+
