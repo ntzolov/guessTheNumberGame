@@ -30,6 +30,7 @@ function GuessTheNumber() {
               console.log(
                 `Amazing!!! You beat the game with ${globalTries} tries!`
               );
+              console.log('Thank you for playing! :)');
               readline.close();
             } else {
               console.log(
@@ -65,6 +66,7 @@ function GuessTheNumber() {
             currTries = 0;
             recursiveAsyncReadline();
           } else if (answer === 'n') {
+            console.log('Thank you for playing! :)');
             return readline.close();
           } else {
             console.log('Invalid input! Try again...');
